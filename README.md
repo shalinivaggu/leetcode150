@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/shalinivaggu/leetcode150/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/shalinivaggu/leetcode150/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shalinivaggu/leetcode150/tree/master/0189-rotate-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/shalinivaggu/leetcode150/tree/master/2232-adding-spaces-to-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shalinivaggu/leetcode150/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shalinivaggu/leetcode150/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/shalinivaggu/leetcode150/tree/master/0189-rotate-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/shalinivaggu/leetcode150/tree/master/2232-adding-spaces-to-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -65,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shalinivaggu/leetcode150/tree/master/0074-search-a-2d-matrix) |
+## String
+|  |
+| ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/shalinivaggu/leetcode150/tree/master/2232-adding-spaces-to-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/shalinivaggu/leetcode150/tree/master/2232-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->
