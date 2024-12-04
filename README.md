@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/shalinivaggu/leetcode150/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/shalinivaggu/leetcode150/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shalinivaggu/leetcode150/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/shalinivaggu/leetcode150/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/shalinivaggu/leetcode150/tree/master/0219-contains-duplicate-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/shalinivaggu/leetcode150/tree/master/2232-adding-spaces-to-a-string) |
 ## Two Pointers
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shalinivaggu/leetcode150/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/shalinivaggu/leetcode150/tree/master/0200-number-of-islands) |
 ## String
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shalinivaggu/leetcode150/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/shalinivaggu/leetcode150/tree/master/0200-number-of-islands) |
 ## Sliding Window
 |  |
 | ------- |
@@ -122,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shalinivaggu/leetcode150/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/shalinivaggu/leetcode150/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/shalinivaggu/leetcode150/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
