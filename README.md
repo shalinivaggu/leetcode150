@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/shalinivaggu/leetcode150/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/shalinivaggu/leetcode150/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shalinivaggu/leetcode150/tree/master/0202-happy-number) |
 ## Dynamic Programming
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shalinivaggu/leetcode150/tree/master/0219-contains-duplicate-ii) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/shalinivaggu/leetcode150/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
