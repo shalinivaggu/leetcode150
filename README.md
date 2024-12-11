@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/shalinivaggu/leetcode150/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/shalinivaggu/leetcode150/tree/master/2232-adding-spaces-to-a-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shalinivaggu/leetcode150/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shalinivaggu/leetcode150/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/shalinivaggu/leetcode150/tree/master/3427-special-array-ii) |
 ## Two Pointers
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shalinivaggu/leetcode150/tree/master/0169-majority-element) |
 | [2164-two-best-non-overlapping-events](https://github.com/shalinivaggu/leetcode150/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shalinivaggu/leetcode150/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shalinivaggu/leetcode150/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/shalinivaggu/leetcode150/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/shalinivaggu/leetcode150/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shalinivaggu/leetcode150/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shalinivaggu/leetcode150/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shalinivaggu/leetcode150/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/shalinivaggu/leetcode150/tree/master/3427-special-array-ii) |
 ## Matrix
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shalinivaggu/leetcode150/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/shalinivaggu/leetcode150/tree/master/0219-contains-duplicate-ii) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shalinivaggu/leetcode150/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shalinivaggu/leetcode150/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Recursion
 |  |
