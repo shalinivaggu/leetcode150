@@ -4,5 +4,5 @@ class Solution:
         for i in range(len(number)):
             if number[i] == digit:
                 newNum = number[:i] + number[i+1:]
-                val.append(int(newNum))
-        return str(max(val))
+                val.append(newNum)
+        return max(val)
