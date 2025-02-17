@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shalinivaggu/leetcode150/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/shalinivaggu/leetcode150/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shalinivaggu/leetcode150/tree/master/0202-happy-number) |
+| [1894-merge-strings-alternately](https://github.com/shalinivaggu/leetcode150/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/shalinivaggu/leetcode150/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/shalinivaggu/leetcode150/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/shalinivaggu/leetcode150/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/shalinivaggu/leetcode150/tree/master/0383-ransom-note) |
+| [1894-merge-strings-alternately](https://github.com/shalinivaggu/leetcode150/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/shalinivaggu/leetcode150/tree/master/2232-adding-spaces-to-a-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/shalinivaggu/leetcode150/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2340-total-appeal-of-a-string](https://github.com/shalinivaggu/leetcode150/tree/master/2340-total-appeal-of-a-string) |
