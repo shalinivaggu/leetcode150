@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shalinivaggu/leetcode150/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/shalinivaggu/leetcode150/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/shalinivaggu/leetcode150/tree/master/0219-contains-duplicate-ii) |
+| [0605-can-place-flowers](https://github.com/shalinivaggu/leetcode150/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shalinivaggu/leetcode150/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/shalinivaggu/leetcode150/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/shalinivaggu/leetcode150/tree/master/2164-two-best-non-overlapping-events) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shalinivaggu/leetcode150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0605-can-place-flowers](https://github.com/shalinivaggu/leetcode150/tree/master/0605-can-place-flowers) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/shalinivaggu/leetcode150/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shalinivaggu/leetcode150/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Binary Search
