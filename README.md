@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shalinivaggu/leetcode150/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shalinivaggu/leetcode150/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shalinivaggu/leetcode150/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/shalinivaggu/leetcode150/tree/master/1833-find-the-highest-altitude) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/shalinivaggu/leetcode150/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/shalinivaggu/leetcode150/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/shalinivaggu/leetcode150/tree/master/2232-adding-spaces-to-a-string) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shalinivaggu/leetcode150/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/shalinivaggu/leetcode150/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/shalinivaggu/leetcode150/tree/master/1046-max-consecutive-ones-iii) |
+| [1833-find-the-highest-altitude](https://github.com/shalinivaggu/leetcode150/tree/master/1833-find-the-highest-altitude) |
 | [3427-special-array-ii](https://github.com/shalinivaggu/leetcode150/tree/master/3427-special-array-ii) |
 ## Heap (Priority Queue)
 |  |
