@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/shalinivaggu/leetcode150/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/shalinivaggu/leetcode150/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shalinivaggu/leetcode150/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/shalinivaggu/leetcode150/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/shalinivaggu/leetcode150/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/shalinivaggu/leetcode150/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/shalinivaggu/leetcode150/tree/master/2232-adding-spaces-to-a-string) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/shalinivaggu/leetcode150/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/shalinivaggu/leetcode150/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shalinivaggu/leetcode150/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/shalinivaggu/leetcode150/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/shalinivaggu/leetcode150/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/shalinivaggu/leetcode150/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/shalinivaggu/leetcode150/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shalinivaggu/leetcode150/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shalinivaggu/leetcode150/tree/master/0169-majority-element) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/shalinivaggu/leetcode150/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2164-two-best-non-overlapping-events](https://github.com/shalinivaggu/leetcode150/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shalinivaggu/leetcode150/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shalinivaggu/leetcode150/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shalinivaggu/leetcode150/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/shalinivaggu/leetcode150/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/shalinivaggu/leetcode150/tree/master/0383-ransom-note) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/shalinivaggu/leetcode150/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/shalinivaggu/leetcode150/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2339-k-divisible-elements-subarrays](https://github.com/shalinivaggu/leetcode150/tree/master/2339-k-divisible-elements-subarrays) |
 | [2340-total-appeal-of-a-string](https://github.com/shalinivaggu/leetcode150/tree/master/2340-total-appeal-of-a-string) |
