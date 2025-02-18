@@ -15,6 +15,6 @@ public:
             maxsum = max(maxsum , current);
         }
 
-        return maxsum / (k * 1.0);
+        return (double) maxsum / k;
     }
 };
