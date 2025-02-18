@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shalinivaggu/leetcode150/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/shalinivaggu/leetcode150/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/shalinivaggu/leetcode150/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/shalinivaggu/leetcode150/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shalinivaggu/leetcode150/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shalinivaggu/leetcode150/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/shalinivaggu/leetcode150/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shalinivaggu/leetcode150/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/shalinivaggu/leetcode150/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/shalinivaggu/leetcode150/tree/master/0643-maximum-average-subarray-i) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/shalinivaggu/leetcode150/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shalinivaggu/leetcode150/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shalinivaggu/leetcode150/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
