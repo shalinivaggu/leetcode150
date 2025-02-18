@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shalinivaggu/leetcode150/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/shalinivaggu/leetcode150/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shalinivaggu/leetcode150/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/shalinivaggu/leetcode150/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shalinivaggu/leetcode150/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/shalinivaggu/leetcode150/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/shalinivaggu/leetcode150/tree/master/2232-adding-spaces-to-a-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shalinivaggu/leetcode150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shalinivaggu/leetcode150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/shalinivaggu/leetcode150/tree/master/0392-is-subsequence) |
 | [2164-two-best-non-overlapping-events](https://github.com/shalinivaggu/leetcode150/tree/master/2164-two-best-non-overlapping-events) |
 | [2340-total-appeal-of-a-string](https://github.com/shalinivaggu/leetcode150/tree/master/2340-total-appeal-of-a-string) |
 ## Greedy
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shalinivaggu/leetcode150/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shalinivaggu/leetcode150/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/shalinivaggu/leetcode150/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/shalinivaggu/leetcode150/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shalinivaggu/leetcode150/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shalinivaggu/leetcode150/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/shalinivaggu/leetcode150/tree/master/1894-merge-strings-alternately) |
