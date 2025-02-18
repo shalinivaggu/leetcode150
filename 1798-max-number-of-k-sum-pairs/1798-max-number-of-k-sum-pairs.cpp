@@ -6,9 +6,7 @@ public:
 
         while(left < right) {
             if(nums[left] + nums[right] == k) {
-                ans++;
-                left++;
-                right--;
+                ans++ , left++ , right--;
             } else if (nums[left] + nums[right] < k) {
                 left++;
             } else {
