@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/shalinivaggu/leetcode150/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shalinivaggu/leetcode150/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shalinivaggu/leetcode150/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shalinivaggu/leetcode150/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/shalinivaggu/leetcode150/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/shalinivaggu/leetcode150/tree/master/2232-adding-spaces-to-a-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/shalinivaggu/leetcode150/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shalinivaggu/leetcode150/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/shalinivaggu/leetcode150/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/shalinivaggu/leetcode150/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shalinivaggu/leetcode150/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/shalinivaggu/leetcode150/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shalinivaggu/leetcode150/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shalinivaggu/leetcode150/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
