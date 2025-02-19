@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/shalinivaggu/leetcode150/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/shalinivaggu/leetcode150/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/shalinivaggu/leetcode150/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/shalinivaggu/leetcode150/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/shalinivaggu/leetcode150/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shalinivaggu/leetcode150/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shalinivaggu/leetcode150/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shalinivaggu/leetcode150/tree/master/0050-powx-n) |
+| [0394-decode-string](https://github.com/shalinivaggu/leetcode150/tree/master/0394-decode-string) |
 ## Tree
 |  |
 | ------- |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/shalinivaggu/leetcode150/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/shalinivaggu/leetcode150/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/shalinivaggu/leetcode150/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
