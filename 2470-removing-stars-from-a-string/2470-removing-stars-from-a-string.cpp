@@ -1,18 +1,15 @@
 class Solution {
 public:
     string removeStars(string s) {
-        std::vector<char> newstr(s.size());
-        int j = 0;
-
-        for (int i = 0; i < s.size(); i++) {
-            if (s[i] == '*') {
-                j--; 
+        string res = "";
+        for (char c : s) {
+            if (c == '*' && res.length() != 0) {
+                res.pop_back();
             } else {
-                newstr[j] = s[i]; 
-                j++; 
+                res.push_back(c);
             }
         }
 
-        return std::string(newstr.begin(), newstr.begin() + j);
+        return res;
     }
 };
