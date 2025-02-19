@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/shalinivaggu/leetcode150/tree/master/2232-adding-spaces-to-a-string) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/shalinivaggu/leetcode150/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2339-k-divisible-elements-subarrays](https://github.com/shalinivaggu/leetcode150/tree/master/2339-k-divisible-elements-subarrays) |
+| [2428-equal-row-and-column-pairs](https://github.com/shalinivaggu/leetcode150/tree/master/2428-equal-row-and-column-pairs) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shalinivaggu/leetcode150/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shalinivaggu/leetcode150/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/shalinivaggu/leetcode150/tree/master/3427-special-array-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/shalinivaggu/leetcode150/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2339-k-divisible-elements-subarrays](https://github.com/shalinivaggu/leetcode150/tree/master/2339-k-divisible-elements-subarrays) |
 | [2340-total-appeal-of-a-string](https://github.com/shalinivaggu/leetcode150/tree/master/2340-total-appeal-of-a-string) |
+| [2428-equal-row-and-column-pairs](https://github.com/shalinivaggu/leetcode150/tree/master/2428-equal-row-and-column-pairs) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shalinivaggu/leetcode150/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shalinivaggu/leetcode150/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Divide and Conquer
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shalinivaggu/leetcode150/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/shalinivaggu/leetcode150/tree/master/0200-number-of-islands) |
+| [2428-equal-row-and-column-pairs](https://github.com/shalinivaggu/leetcode150/tree/master/2428-equal-row-and-column-pairs) |
 ## String
 |  |
 | ------- |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/shalinivaggu/leetcode150/tree/master/2232-adding-spaces-to-a-string) |
+| [2428-equal-row-and-column-pairs](https://github.com/shalinivaggu/leetcode150/tree/master/2428-equal-row-and-column-pairs) |
 ## Union Find
 |  |
 | ------- |
