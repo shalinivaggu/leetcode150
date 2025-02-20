@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shalinivaggu/leetcode150/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shalinivaggu/leetcode150/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0904-leaf-similar-trees](https://github.com/shalinivaggu/leetcode150/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/shalinivaggu/leetcode150/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shalinivaggu/leetcode150/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shalinivaggu/leetcode150/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0904-leaf-similar-trees](https://github.com/shalinivaggu/leetcode150/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/shalinivaggu/leetcode150/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shalinivaggu/leetcode150/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shalinivaggu/leetcode150/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0904-leaf-similar-trees](https://github.com/shalinivaggu/leetcode150/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/shalinivaggu/leetcode150/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shalinivaggu/leetcode150/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/shalinivaggu/leetcode150/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shalinivaggu/leetcode150/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/shalinivaggu/leetcode150/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
