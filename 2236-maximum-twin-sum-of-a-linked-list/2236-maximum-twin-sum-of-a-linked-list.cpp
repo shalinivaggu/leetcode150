@@ -11,22 +11,25 @@
 class Solution {
 public:
     int pairSum(ListNode* head) {
-        stack<int> st;
-        ListNode* slow = head;
+
+        ListNode* cur = head;
         ListNode* fast = head;
+        ListNode* prev = nullptr;
+        ListNode* temp;
         int ans = INT_MIN , sum = 0 ; 
         
-        while(fast && fast->next) {
-            st.push(slow->val);
-            slow = slow->next;
-            fast = fast->next->next;
-        }
-
-        while(slow != nullptr) {
+        while(fast) { 
+           fast = fast->next->next;
+           temp = cur->next;
+           cur->next = prev;
+           prev = cur;
+           cur = temp;
            
-            sum = st.top() + slow->val;
-            st.pop();
-            ans = max(ans , sum);
+        }
+        ListNode* slow = prev;
+        while(cur != nullptr) {
+            ans = max(ans , cur->val + slow->val);
+            cur = cur->next;
             slow = slow->next;
         }
 
