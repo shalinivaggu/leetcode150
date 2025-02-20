@@ -23,10 +23,9 @@ public:
         }
 
         while(slow != nullptr) {
-            int num1 = st.top();
-            int num2 = slow->val;
+           
+            sum = st.top() + slow->val;
             st.pop();
-            sum = num1 + num2;
             ans = max(ans , sum);
             slow = slow->next;
         }
