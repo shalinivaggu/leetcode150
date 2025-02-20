@@ -26,11 +26,11 @@ public:
            cur = temp;
            
         }
-        ListNode* slow = prev;
+        temp = prev;
         while(cur != nullptr) {
-            ans = max(ans , cur->val + slow->val);
+            ans = max(ans , cur->val + temp->val);
             cur = cur->next;
-            slow = slow->next;
+            temp = temp->next;
         }
 
         return ans;
