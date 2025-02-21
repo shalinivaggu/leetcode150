@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shalinivaggu/leetcode150/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shalinivaggu/leetcode150/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shalinivaggu/leetcode150/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/shalinivaggu/leetcode150/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/shalinivaggu/leetcode150/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shalinivaggu/leetcode150/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shalinivaggu/leetcode150/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shalinivaggu/leetcode150/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shalinivaggu/leetcode150/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/shalinivaggu/leetcode150/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shalinivaggu/leetcode150/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shalinivaggu/leetcode150/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shalinivaggu/leetcode150/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/shalinivaggu/leetcode150/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/shalinivaggu/leetcode150/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shalinivaggu/leetcode150/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shalinivaggu/leetcode150/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
