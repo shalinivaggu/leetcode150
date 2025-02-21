@@ -11,15 +11,14 @@
  */
 class Solution {
 public:
-    int depth = -1 ;
 
     void rightView(TreeNode* root , vector<int>& view, int height) {
         if(!root) return ;
         height = height + 1 ; 
         
-        if(height > depth) { 
+        if(height > view.size()) { 
             view.push_back(root->val);
-            depth = max(height , depth);
+            
         }
         rightView(root->right, view, height); 
         rightView(root->left, view, height);   
