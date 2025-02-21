@@ -17,10 +17,7 @@ public:
         int k = root->val >= h ? 1 : 0  ;
         h = max(root->val , h);
 
-        k += solve(root->left , h);
-        k += solve(root->right , h);
-
-        return k;
+        return k + solve(root->left , h) + solve(root->right , h) ;
     }
 
     int goodNodes(TreeNode* root) {
