@@ -12,31 +12,32 @@
 class Solution {
 public:
     int maxLevelSum(TreeNode* root) {
-        if(!root) return INT_MIN;
+    if (!root) return 0; // Handle the case of an empty tree
 
-        vector<int>ans;
+    queue<TreeNode*> q;
+    pair<int, int> maxSum(-1, -1); // maxSum.first = level, maxSum.second = sum
+    int level = 0;
+    q.push(root);
 
-        queue<TreeNode*> pendingNodes; 
-        pendingNodes.push(root);
-
-        while(!pendingNodes.empty()) {
-            int size = pendingNodes.size();
-            int sum = 0; 
-
-            while(size--) {
-                TreeNode* front = pendingNodes.front();
-                pendingNodes.pop();
-
-                sum += front->val ;
-
-                if(front->left) pendingNodes.push(front->left);
-                if(front->right) pendingNodes.push(front->right);
-            }
-
-            ans.push_back(sum);
+    while (!q.empty()) {
+        int length = q.size(), sum = 0; 
+        level++;
+        for (int i = 0; i < length; i++) {
+            TreeNode* front = q.front();
+            sum += front->val; // Accumulate the sum of the current level
+            q.pop();
+            if (front->left) q.push(front->left);
+            if (front->right) q.push(front->right);
         }
 
-        int max = INT_MIN, maxIndex = 0 ; 
-        return max_element(ans.begin() , ans.end()) - ans.begin() + 1;
+        // Update maxSum if the current level sum is greater
+        if (maxSum.second < sum) {
+            maxSum.first = level; 
+            maxSum.second = sum; 
+        }
     }
+
+    return maxSum.first; // Return the level with the maximum sum
+}
+    
 };
