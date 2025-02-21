@@ -4,10 +4,7 @@ public:
         int n = rooms.size();
         vector<int> visited(n , 0 );
         stack<int> s; 
-        visited[0] = 1;
-        for(int i : rooms[0]) {
-            s.push(i);
-        }
+        s.push(0);
 
         while(!s.empty()) {
             int key = s.top(); 
