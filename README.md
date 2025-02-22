@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shalinivaggu/leetcode150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shalinivaggu/leetcode150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/shalinivaggu/leetcode150/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/shalinivaggu/leetcode150/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shalinivaggu/leetcode150/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shalinivaggu/leetcode150/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/shalinivaggu/leetcode150/tree/master/0169-majority-element) |
@@ -347,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/shalinivaggu/leetcode150/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/shalinivaggu/leetcode150/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shalinivaggu/leetcode150/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/shalinivaggu/leetcode150/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
