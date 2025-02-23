@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shalinivaggu/leetcode150/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/shalinivaggu/leetcode150/tree/master/0062-unique-paths) |
 | [0172-factorial-trailing-zeroes](https://github.com/shalinivaggu/leetcode150/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/shalinivaggu/leetcode150/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shalinivaggu/leetcode150/tree/master/0202-happy-number) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shalinivaggu/leetcode150/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shalinivaggu/leetcode150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shalinivaggu/leetcode150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/shalinivaggu/leetcode150/tree/master/0198-house-robber) |
@@ -404,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/shalinivaggu/leetcode150/tree/master/0374-guess-number-higher-or-lower) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/shalinivaggu/leetcode150/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
