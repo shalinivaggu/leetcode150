@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/shalinivaggu/leetcode150/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/shalinivaggu/leetcode150/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/shalinivaggu/leetcode150/tree/master/0735-asteroid-collision) |
+| [0747-min-cost-climbing-stairs](https://github.com/shalinivaggu/leetcode150/tree/master/0747-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/shalinivaggu/leetcode150/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/shalinivaggu/leetcode150/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/shalinivaggu/leetcode150/tree/master/1319-unique-number-of-occurrences) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shalinivaggu/leetcode150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shalinivaggu/leetcode150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/shalinivaggu/leetcode150/tree/master/0392-is-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/shalinivaggu/leetcode150/tree/master/0747-min-cost-climbing-stairs) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shalinivaggu/leetcode150/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shalinivaggu/leetcode150/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2164-two-best-non-overlapping-events](https://github.com/shalinivaggu/leetcode150/tree/master/2164-two-best-non-overlapping-events) |
