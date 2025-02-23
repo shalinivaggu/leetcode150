@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/shalinivaggu/leetcode150/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/shalinivaggu/leetcode150/tree/master/1833-find-the-highest-altitude) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/shalinivaggu/leetcode150/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/shalinivaggu/leetcode150/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2164-two-best-non-overlapping-events](https://github.com/shalinivaggu/leetcode150/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/shalinivaggu/leetcode150/tree/master/2232-adding-spaces-to-a-string) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/shalinivaggu/leetcode150/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shalinivaggu/leetcode150/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/shalinivaggu/leetcode150/tree/master/0200-number-of-islands) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/shalinivaggu/leetcode150/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/shalinivaggu/leetcode150/tree/master/2428-equal-row-and-column-pairs) |
 ## String
 |  |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shalinivaggu/leetcode150/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shalinivaggu/leetcode150/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shalinivaggu/leetcode150/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/shalinivaggu/leetcode150/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Prefix Sum
 |  |
 | ------- |
