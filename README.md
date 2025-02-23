@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/shalinivaggu/leetcode150/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2339-k-divisible-elements-subarrays](https://github.com/shalinivaggu/leetcode150/tree/master/2339-k-divisible-elements-subarrays) |
 | [2428-equal-row-and-column-pairs](https://github.com/shalinivaggu/leetcode150/tree/master/2428-equal-row-and-column-pairs) |
+| [2636-maximum-subsequence-score](https://github.com/shalinivaggu/leetcode150/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shalinivaggu/leetcode150/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shalinivaggu/leetcode150/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/shalinivaggu/leetcode150/tree/master/3427-special-array-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/shalinivaggu/leetcode150/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shalinivaggu/leetcode150/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2164-two-best-non-overlapping-events](https://github.com/shalinivaggu/leetcode150/tree/master/2164-two-best-non-overlapping-events) |
+| [2636-maximum-subsequence-score](https://github.com/shalinivaggu/leetcode150/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shalinivaggu/leetcode150/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shalinivaggu/leetcode150/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Hash Table
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/shalinivaggu/leetcode150/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/shalinivaggu/leetcode150/tree/master/0649-dota2-senate) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/shalinivaggu/leetcode150/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2636-maximum-subsequence-score](https://github.com/shalinivaggu/leetcode150/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shalinivaggu/leetcode150/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Binary Search
 |  |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/shalinivaggu/leetcode150/tree/master/0215-kth-largest-element-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/shalinivaggu/leetcode150/tree/master/2164-two-best-non-overlapping-events) |
 | [2413-smallest-number-in-infinite-set](https://github.com/shalinivaggu/leetcode150/tree/master/2413-smallest-number-in-infinite-set) |
+| [2636-maximum-subsequence-score](https://github.com/shalinivaggu/leetcode150/tree/master/2636-maximum-subsequence-score) |
 ## Enumeration
 |  |
 | ------- |
