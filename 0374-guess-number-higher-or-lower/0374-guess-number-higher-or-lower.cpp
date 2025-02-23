@@ -10,25 +10,17 @@
 class Solution {
 public:
     int guessNumber(int n) {
-        
-        int s=1 , e = n ;
-
-        while(1){
-            int mid = s + (e - s) /2;
-            int pick = guess(mid);
-
-            if(pick == 0){
-                return mid;
+        int l = 1, r = n;
+        while (true) {
+            int m = l + (r - l) / 2;
+            int res = guess(m);
+            if (res > 0) {
+                l = m + 1;
+            } else if (res < 0) {
+                r = m - 1;
+            } else {
+                return m;
             }
-
-            else if(pick == 1){
-                s = mid + 1;
-            }
-            else{
-
-                e = mid - 1;
-            }
-           
         }
     }
 };
