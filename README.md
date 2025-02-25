@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/shalinivaggu/leetcode150/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/shalinivaggu/leetcode150/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/shalinivaggu/leetcode150/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/shalinivaggu/leetcode150/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/shalinivaggu/leetcode150/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/shalinivaggu/leetcode150/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/shalinivaggu/leetcode150/tree/master/1036-rotting-oranges) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/shalinivaggu/leetcode150/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/shalinivaggu/leetcode150/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/shalinivaggu/leetcode150/tree/master/0739-daily-temperatures) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/shalinivaggu/leetcode150/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/shalinivaggu/leetcode150/tree/master/2470-removing-stars-from-a-string) |
 ## Design
@@ -426,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shalinivaggu/leetcode150/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0216-combination-sum-iii](https://github.com/shalinivaggu/leetcode150/tree/master/0216-combination-sum-iii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/shalinivaggu/leetcode150/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
