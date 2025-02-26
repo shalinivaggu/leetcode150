@@ -432,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/shalinivaggu/leetcode150/tree/master/0739-daily-temperatures) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/shalinivaggu/leetcode150/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
