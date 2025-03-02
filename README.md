@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-total-cost-to-hire-k-workers](https://github.com/shalinivaggu/leetcode150/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/shalinivaggu/leetcode150/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shalinivaggu/leetcode150/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shalinivaggu/leetcode150/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shalinivaggu/leetcode150/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/shalinivaggu/leetcode150/tree/master/3427-special-array-ii) |
 ## Two Pointers
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-move-pieces-to-obtain-a-string](https://github.com/shalinivaggu/leetcode150/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/shalinivaggu/leetcode150/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/shalinivaggu/leetcode150/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shalinivaggu/leetcode150/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/shalinivaggu/leetcode150/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Sorting
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-number-in-infinite-set](https://github.com/shalinivaggu/leetcode150/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/shalinivaggu/leetcode150/tree/master/2428-equal-row-and-column-pairs) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shalinivaggu/leetcode150/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shalinivaggu/leetcode150/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shalinivaggu/leetcode150/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Divide and Conquer
 |  |
